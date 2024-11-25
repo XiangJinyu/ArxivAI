@@ -1,0 +1,4 @@
+PyYAML~=6.0.2
+openai~=1.55.0
+jsonlines~=4.0.0
+requests~=2.32.3
